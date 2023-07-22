@@ -1,5 +1,5 @@
-/*EASY*/
-/*Who is the sennior most employee based on job title?*/
+
+/*Who is the senior most employee based on job title?*/
 
 select * from employee
 order by levels desc
@@ -41,7 +41,6 @@ where i.customer_id = c.customer_id
 group by c.customer_id
 order by total_invoice desc limit 1;
 
-/*MODERATE*/
 /*write a query to return email, first name, last name,& genre of all Rock
 music listners. Returned your list ordered alphabetically by email starting
 with A*/
