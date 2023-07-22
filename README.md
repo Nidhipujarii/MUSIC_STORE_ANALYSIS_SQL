@@ -1,10 +1,10 @@
 # SQL_PROJECTS
-- Welcome to the Music Store SQL Project
+**Welcome to the Music Store SQL Project**
 
-- Project Overview
+***Project Overview***
 - The Music Store SQL Project aims to simulate a music store's database and analyze various aspects of the business. The database contains information about customers, invoices, tracks, artists, genres, and more. You can use SQL queries to retrieve valuable insights, such as the top-selling artists, most popular music genres, customer spending patterns, and more.
 
-- Database Schema
+***Database Schema***
 - The database schema for the Music Store project consists of the following tables:
 - customer: Stores information about the store's customers, such as customer ID, first name, last name, email, country, and more.
 - invoice: Contains data related to customer invoices, including invoice ID, customer ID, billing address, total amount, and invoice date.
@@ -15,7 +15,7 @@
 - artist: Stores information about music artists, including artist ID and artist name.
 - genre: Holds data about music genres, including genre ID and genre name.
 
-- Queries and Analysis
+  ****Queries and Analysis***
 
 - The project includes a series of SQL queries to perform various analyses on the music store's data. Some of the key analyses covered in 
   the project are as follows:
@@ -33,4 +33,4 @@
 - Top Customer Spending by Country
 
 
-Happy querying and exploring the Music Store SQL Project! 🎶🎵
+**Happy querying and exploring the Music Store SQL Project! 🎶🎵**
