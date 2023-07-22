@@ -1,4 +1,4 @@
-# SQL_PROJECTS
+# MUSIC_STORE_ANALYSIS_SQL
 **Welcome to the Music Store SQL Project**
 
 ***Project Overview***
