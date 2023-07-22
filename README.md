@@ -15,7 +15,7 @@
 - artist: Stores information about music artists, including artist ID and artist name.
 - genre: Holds data about music genres, including genre ID and genre name.
 
-  ****Queries and Analysis***
+  ***Queries and Analysis***
 
 - The project includes a series of SQL queries to perform various analyses on the music store's data. Some of the key analyses covered in 
   the project are as follows:
