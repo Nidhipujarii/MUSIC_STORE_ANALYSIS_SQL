@@ -18,17 +18,17 @@ Queries and Analysis
 
 The project includes a series of SQL queries to perform various analyses on the music store's data. Some of the key analyses covered in the project are as follows:
 
->Senior Most Employee
->Countries with the Most Invoices
->Top 3 Invoice Values
->City with the Best Customers
->Best Customer
->Rock Music Listeners
->Top Rock Bands
->Longest Tracks
->Customer Spending on Artists
->Most Popular Music Genre by Country
->Top Customer Spending by Country
+- Senior Most Employee
+- Countries with the Most Invoices
+- Top 3 Invoice Values
+- City with the Best Customers
+- Best Customer
+- Rock Music Listeners
+- Top Rock Bands
+- Longest Tracks
+- Customer Spending on Artists
+- Most Popular Music Genre by Country
+- Top Customer Spending by Country
 
 
 Happy querying and exploring the Music Store SQL Project! 🎶🎵
